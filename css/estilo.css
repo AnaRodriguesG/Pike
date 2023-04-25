@@ -1,0 +1,50 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+:root {
+	--cor-fundo:#E3F7FE;
+	--cor-botoes:#A9E7FB;
+}
+body {
+	background: var(--cor-fundo);
+}
+.ret1 {
+	width: 1920px;
+	height: 166px;
+	background: linear-gradient(90deg, #000000, #187795, #000000)
+}
+.img1 {
+	position: relative;
+	left: 860px;
+	right: 860px;
+	top: 27px; 
+}
+.menu {
+	text-align: center;
+	width: 1920px;
+	height: 50px; 
+	background: linear-gradient(90deg, #fff, #000000, #187795, #000000, #fff);
+}
+.icon1 {
+	position: absolute;
+	width: 43.33px;
+	height: 27.9px;
+	left: 14.67px;
+	top: 178px;
+}
+.icon2 {
+	position: absolute;
+	width: 59px;
+	height: 45px;
+	left: 60px;
+	top: 168px;
+} 
+.icon3 {
+	position: absolute;
+width: 48px;
+height: 43px;
+left: 1843px;
+top: 170px;
+
+}
