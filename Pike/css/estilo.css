@@ -1,0 +1,18 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+:root {
+	--cor-fundo:#E3F7FE;
+	--cor-botoes:#A9E7FB;
+	--cor-degrade1:#000000;
+	--cor-degrade2:#187795;
+}
+body {
+	background: var(--cor-fundo);
+}
+.ret1 {
+	width: 1920px;
+	height: 166px;
+	background: linear-gradient(var(,--cor-degrade1, --cor-degrade2, --cor-degrade1));
+}
