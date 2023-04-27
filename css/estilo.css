@@ -60,12 +60,12 @@ top: 178px;
 	background: #FFFFFF;
 	border: 1px solid #000000;
 }
-.input {
+input {
 	position: absolute;
 	width: 352px;
 	height: 35px;
 	text-align: left;
-	top: -1px;
+	top: -9px;
 	background: #FFFFFF;
 	border: 1px solid #000000;
 }
