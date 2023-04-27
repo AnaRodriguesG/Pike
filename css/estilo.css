@@ -38,12 +38,23 @@ body {
 	width: 59px;
 	height: 45px;
 	left: 60px;
-	top: 168px;
+	top: 174px;
 } 
 .icon3 {
 	position: absolute;
 width: 48px;
 height: 43px;
 left: 1843px;
-top: 170px;
+top: 178px;
+}
+.txt1 {
+	font-family: "Source Code Pro";
+	margin: ;
+}
+.form {
+	position: absolute;
+	width: 352px;
+	height: 35px;
+	left: 1539px;
+	top: 182px;
 }
