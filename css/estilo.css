@@ -57,4 +57,15 @@ top: 178px;
 	height: 35px;
 	left: 1539px;
 	top: 182px;
+	background: #FFFFFF;
+	border: 1px solid #000000;
+}
+.input {
+	position: absolute;
+	width: 352px;
+	height: 35px;
+	left: -1px;
+	top: -1px;
+	background: #FFFFFF;
+	border: 1px solid #000000;
 }
