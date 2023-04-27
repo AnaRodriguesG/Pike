@@ -64,15 +64,13 @@ top: 178px;
 	position: absolute;
 	width: 352px;
 	height: 35px;
-	left: -1px;
-	top: -1px;
 	background: #FFFFFF;
 	border: 1px solid #000000;
 }
 .lupa {
 	height: 43px;
 	width: 48px;
-	left: 1843px;
+	left: 1943px;
 	top: 178px;
 	border-radius: 0px;
 
